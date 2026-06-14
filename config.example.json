@@ -1,0 +1,40 @@
+{
+  "xhh": {
+    "checkTime": 20,
+    "replyTime": 20,
+    "foundReplyTime": 50,
+    "foundReplyProb": 0.015,
+    "foundReplyEnabled": false,
+    "owner": "",
+    "fansOnly": false,
+    "fansAuto": false,
+    "fansRefresh": 600,
+    "fansLimit": 100,
+    "fansUserId": "",
+    "fans": "",
+    "deviceID": "",
+    "baseUrl": "https://api.xiaoheihe.cn",
+    "webver": "2.5",
+    "version": "999.0.4"
+  },
+  "database": {
+    "type": "sqlite",
+    "db": "",
+    "host": "",
+    "port": "",
+    "user": "",
+    "passwd": ""
+  },
+  "ai": {
+    "model": "",
+    "prompt": "",
+    "baseUrl": "",
+    "token": ""
+  },
+  "tavily": {
+    "enabled": false,
+    "apiKey": "",
+    "maxResults": 5,
+    "searchDepth": "basic"
+  }
+}
